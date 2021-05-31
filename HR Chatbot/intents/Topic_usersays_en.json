@@ -1,0 +1,170 @@
+[
+  {
+    "id": "0bb0d94c-affe-4c48-b079-344cf67111d6",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "hours of work",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5b55ff5-3ea8-4d27-924d-d4ebbbf6f7bd",
+    "data": [
+      {
+        "text": "Can you look up ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65a8d51a-551e-485e-97dc-eebb88562ef9",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3b4fdbc-30f5-4db1-b643-a6459c98616f",
+    "data": [
+      {
+        "text": "I want to know what ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": " is.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07574c8c-c323-4044-97d1-5b62e99486ec",
+    "data": [
+      {
+        "text": "I\u0027d like to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b07c0cf2-8094-4ef8-b4d0-cae3cf12b6fd",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "481032c8-07d1-4fa8-b882-609f99d25b5c",
+    "data": [
+      {
+        "text": "I need to understand what ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": " is about.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d160c696-10f9-4d4e-b6af-01baedb1fb52",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
