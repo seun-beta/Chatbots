@@ -1,0 +1,132 @@
+[
+  {
+    "id": "466a80c4-d63f-40d1-a53b-7196874e5273",
+    "data": [
+      {
+        "text": "How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e081d655-9e07-43f6-9c27-14589097a2df",
+    "data": [
+      {
+        "text": "Hello, how are you doing ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45935fe3-5288-4a8f-88a4-da1468209825",
+    "data": [
+      {
+        "text": "Hello, welcome.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6e681ac-2d01-4cf2-a273-8e9fdffbfb86",
+    "data": [
+      {
+        "text": "Hullo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cb78e34-e7a8-42ec-988d-ca7394b0be9b",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a927a33-c9a1-4529-80f8-ef72f7089bf9",
+    "data": [
+      {
+        "text": "Howdy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71bd6c11-eabc-48c6-8483-466dc0f49f15",
+    "data": [
+      {
+        "text": "Heyo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17fcace7-48c0-42b6-afc0-71823dab9f59",
+    "data": [
+      {
+        "text": "Hi, it is good to have you here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "983afd22-b11f-41c3-8260-a2f7e2281daa",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8062464a-6831-47ba-bb5a-a47805f2b40b",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
