@@ -23,10 +23,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
-- [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -44,9 +41,6 @@ You need to have the following accounts set up:
 * [Dialogflow](https://dialogflow.cloud.google.com/)  
 * [Google Cloud Platform](https://cloud.google.com/)
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -55,61 +49,31 @@ Download the zipped version of each project:
 * [HR-Chatbot](/HR-CHatbot)
 * [Pizza-Bot](/Pizza-Bot)
 
-```
-Give the example
-```
+Import the zipped folder into Dialogflow and save it.
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+Dialogflow would begin agent training.
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
+You can manually test the chatbot by asking it different questions depending on what the chatbot does. 
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+Dialogflow allows you to embed the chatbot UI into websites and various apps.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+* [Dialogflow](https://dialogflow.cloud.google.com/)  
+* [Google Cloud Platform](https://cloud.google.com/)
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@seun-beta](https://github.com/seun-beta) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- References
+
